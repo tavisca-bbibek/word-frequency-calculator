@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WordFrequencyCounter.iml" filepath="$PROJECT_DIR$/WordFrequencyCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordFrequencyCalculator.iml" filepath="$PROJECT_DIR$/WordFrequencyCalculator.iml" />
     </modules>
   </component>
 </project>
